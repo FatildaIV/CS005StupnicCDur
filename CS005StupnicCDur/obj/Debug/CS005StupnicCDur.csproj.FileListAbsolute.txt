@@ -1,0 +1,6 @@
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS005StupnicCDur\CS005StupnicCDur\obj\Debug\CS005StupnicCDur.csprojResolveAssemblyReference.cache
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS005StupnicCDur\CS005StupnicCDur\bin\Debug\CS005StupnicCDur.exe.config
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS005StupnicCDur\CS005StupnicCDur\bin\Debug\CS005StupnicCDur.exe
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS005StupnicCDur\CS005StupnicCDur\bin\Debug\CS005StupnicCDur.pdb
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS005StupnicCDur\CS005StupnicCDur\obj\Debug\CS005StupnicCDur.exe
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS005StupnicCDur\CS005StupnicCDur\obj\Debug\CS005StupnicCDur.pdb
